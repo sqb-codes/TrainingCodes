@@ -1,0 +1,59 @@
+Introduction to Python Programming
+
+	1. General Purpose
+		a. Web development
+		b. Software development
+		c. Mobile app development
+		d. AI/ML
+		e. Testing
+		f. Analysis
+	2. Dynamically Typed
+	3. Multi-paradigm
+		a. Procedural
+		b. Object Oriented
+		c. Functional - Functions are first class citizens
+	4. Interpreted
+	5. High level language
+	6. Easy to Use
+
+Two Types of Programming
+	1. Statically Typed
+	2. Dynamically Typed
+
+Statically Typed: fixed
+	- Fixed type of allocation
+	- C, C++, Java, C#
+Example:
+int x = 12;
+x = "hello"; x
+x = 75765757656576; // out of range of int
+Byte - 1 byte =>
+Int - 4 byte => 
+Long - 8 Byte
+
+How to calculate range ?
+1 byte = 8 bit, n = 8
+-2n-1 to 2n-1 - 1, why n-1 = because 1 bit is reserve for sign +,-
+-27 to 27 - 1
+-128 to 127
+
+4 byte = 32 bit, n = 32
+-2n-1 to 2n-1 - 1
+-231 to 231 - 1
+-2147483648 to 2147483647
+
+
+Dynamically Typed: change
+	- Memory allocated on runtime
+	- Python, JavaScript, R
+
+X = 32123
+X = "hello"
+X = 3904782309482309482
+
+
+How to print anything in Python?
+print()
+
+Taking Input in Python
+input("")
