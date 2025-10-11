@@ -57,3 +57,49 @@ print()
 
 Taking Input in Python
 input("")
+
+
+Data Types
+
+Number
+	- Int => x = 10
+	- Float => x = 12.45
+	- Complex => z = 3 + 5j
+Boolean
+	- Bool => flag = True/False
+String
+	- Str => name = "Python"
+Bytes
+	- Bytes => b = b"hello"
+Data Collection
+	- List => names = ["ram", "shyam", "john"]
+	- Tuples => coords = (14,50,23)
+	- Dictionary => data = {name:"Ram", age:20}
+	- Set & Frozenset => {3,4,6,7}
+NoneType
+	- None => x = None
+
+
+Operators
+Arithmetic Operators - Mathematical Operations
++, -, *, /, %, //, **
+
+Comparison/Relational Operators - Used to Compare values
+==, !=, >, <, >=, <=
+
+Logical Operators - Used for combining conditions
+and, or, not
+
+Assignment Operators - To assign values to variables
+=, +=, -=, /=, *=, //=, %=, **=
+
+Bitwise Operators - Useful in low-level programming, Operates on bits (1s and 0s)
+
+Membership Operators - Check if element exists in a collection (list, tuple…)
+in, not in
+
+Identity Operators - Compare memory locations of two objects
+is, is not
+
+Interview question
+	- is vs ==
