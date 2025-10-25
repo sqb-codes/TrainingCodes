@@ -103,3 +103,51 @@ is, is not
 
 Interview question
 	- is vs ==
+
+==============================================
+
+Conditions in Python
+If else statements
+If elif else ladder
+Nested if else
+
+Check if a is greater than b
+a = 23
+b = 45
+
+Check if x is odd or even
+x = 40
+
+Check if user email id and password is correct
+email = "john12@gmail.com"
+pwd = "123434"
+
+
+Leap Year
+- If the year is exactly divisible by 4
+- If the year is exactly divisible by 100, then it is NOT a leap year, unless;
+- The year is also exactly divisible by 400. Then it is a leap year.
+
+
+Q: Count total number of notes in a given amount
+	- 1 rupee notes
+	- 5 rupee notes
+	- 10 rupee notes
+	- 50 rupee notes
+	- 100 rupee notes
+	- 500 rupee notes
+Amount: 575
+500 = 1
+100 = 0
+50 = 1
+10 = 2
+5 = 1
+1 = 0
+
+Amount: 7863
+500 = 15
+100 = 3
+50 = 1
+10 = 1
+5 = 0
+1 = 3
